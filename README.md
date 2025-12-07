@@ -1,4 +1,4 @@
-give the readme in this way onl;y in one contaier full # Cancer Awareness & Support 🎗️
+# Cancer Awareness & Support 🎗️
 
 A modern, responsive single-page website promoting cancer awareness, built with React, TypeScript, and Tailwind CSS.
 
@@ -124,3 +124,4 @@ MIT License - feel free to use this project for your own cancer awareness initia
 ---
 
 Made with 💝 for a cause that matters.
+
